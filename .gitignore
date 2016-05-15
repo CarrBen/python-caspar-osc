@@ -1,0 +1,8 @@
+/bin/
+/cx_Freeze-src/
+/lib/
+/deb_dist/
+/build/
+/include/
+/dist/
+*gz
