@@ -1,0 +1,2 @@
+cx-Freeze==5.0
+python-osc==1.6

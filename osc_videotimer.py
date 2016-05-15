@@ -10,9 +10,6 @@ from pythonosc import dispatcher, osc_server
 
 import math
 
-import os
-print(os.getcwd())
-
 CHANNEL = 1
 LAYER = 2
 
